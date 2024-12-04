@@ -18,9 +18,4 @@ Self-taught front-end developer passionate about crafting modern websites with s
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Katleho14&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=katleho14&label=Profile%20Views&color=0&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=katleho14&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
