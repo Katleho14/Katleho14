@@ -13,9 +13,13 @@ Self-taught front-end developer passionate about crafting modern websites with s
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Katleho14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Katleho14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Katleho14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-[![](https://visitcount.itsvg.in/api?id=katleho14&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Katleho14&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Katleho14&icon=1&color=1)](https://visitcount.itsvg.in)
